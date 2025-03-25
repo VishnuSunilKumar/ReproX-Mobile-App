@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+## ReproX: Smart Xerox Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ReproX is a fully functional mobile application designed to streamline the printing process at my college’s Xerox center. The app was developed to address common issues such as long queues, payment delays, and inefficiencies in print request handling.
 
-In the project directory, you can run:
+## Key Features:
 
-### `npm start`
+✅ Seamless File Upload: Students can upload their documents directly through the app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Custom Print Preferences: Options to select page size, color, copies, and more.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ Online Payment Integration: Eliminates cash transactions and reduces delays.
 
-### `npm test`
+✅ Real-time Order Tracking: Students can monitor the status of their print requests.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ Efficient Admin Portal: Staff members manage print orders, track requests, and ensure smooth processing.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack:
+Frontend: React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Backend: Firebase
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ReproX significantly enhances the efficiency of the college Xerox center by reducing wait times and automating the request-handling process. The admin portal, which allows staff to manage print requests, is available on my GitHub: GitHub Repository.
 
-### `npm run eject`
+This project demonstrates my ability to develop practical, user-friendly solutions for everyday problems using modern web technologies. 🚀
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![App Screenshot](https://github.com/user-attachments/assets/d6d00c3b-3b3d-439a-ad8e-1874303f0e65)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![App Screenshot](https://github.com/user-attachments/assets/66d47e4b-a38b-450e-9338-c39abc808f0f)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![App Screenshot](https://github.com/user-attachments/assets/4ead3377-dbf3-4c19-8759-2f61e3e66c3d)
 
-## Learn More
+![App Screenshot](https://github.com/user-attachments/assets/a6e5a8b9-4449-4c4b-a5bb-7d09a5db8ec0)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![App Screenshot](https://github.com/user-attachments/assets/23d172ba-f74d-4798-a403-7efc90ca3146)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
