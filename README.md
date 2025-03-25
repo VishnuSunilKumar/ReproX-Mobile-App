@@ -21,7 +21,7 @@ Frontend: React
 
 Backend: Firebase
 
-ReproX significantly enhances the efficiency of the college Xerox center by reducing wait times and automating the request-handling process. The admin portal, which allows staff to manage print requests, is available on my GitHub: GitHub Repository.
+ReproX significantly enhances the efficiency of the college Xerox center by reducing wait times and automating the request-handling process. The admin portal, which allows staff to manage print requests, is available on my GitHub:[ GitHub Repository.](https://github.com/VishnuSunilKumar/xerox-center-app)
 
 This project demonstrates my ability to develop practical, user-friendly solutions for everyday problems using modern web technologies. 🚀
 ## Screenshots
