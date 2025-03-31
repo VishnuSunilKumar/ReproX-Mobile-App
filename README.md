@@ -26,7 +26,7 @@ ReproX significantly enhances the efficiency of the college Xerox center by redu
 This project demonstrates my ability to develop practical, user-friendly solutions for everyday problems using modern web technologies. 🚀
 ## Screenshots
 
-![App Screenshot](https://github.com/user-attachments/assets/a57aa6b2-0b11-402f-88ae-e3acf7646003)
+![App Screenshot](https://github.com/user-attachments/assets/2b7a3bf2-9c3e-419f-9747-7b59162998bb)
 
 ![App Screenshot](https://github.com/user-attachments/assets/2ef02d3f-5a82-4288-9ab6-4458efbf7d99)
 
